@@ -1,1 +1,6 @@
-{}
+{
+  "baseUrl": "https://www.baidu.com/",
+  "username": "CypressTest",
+  "password": "cypressTest"
+
+}
